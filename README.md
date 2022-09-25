@@ -19,7 +19,7 @@
 
 ## Description:
 
->Familiarization with Redux basic. <br>
+>Introduction to Redux basic. <br>
 >Basic examples of using the framework Redux and Redux/Toolkit (+Toolkit slice)
 
 ## Documentation
